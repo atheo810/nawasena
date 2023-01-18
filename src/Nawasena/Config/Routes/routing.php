@@ -5,7 +5,7 @@ namespace Nawasena\Config\Routes;
 /**
  *
  */
-class web
+class routing
 {
     public static function add($route, $file)
     {
