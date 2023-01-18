@@ -14,5 +14,8 @@
             "email": "atheos810@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "replace":{
+        "src/Nawasena/": "self.version"
+    }
 }
