@@ -2,6 +2,7 @@
     "name": "nawasena/nawasena",
     "description": "Library for PHP Frameworks",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Nawasena\\": "src/Nawasena/"
