@@ -1,0 +1,17 @@
+{
+    "name": "nawasena/nawasena",
+    "description": "Library for PHP Frameworks",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nawasena\\": "src/Nawasena/"
+        }
+    },
+    "authors": [
+        {
+            "name": "atheo810",
+            "email": "atheos810@gmail.com"
+        }
+    ],
+    "require": {}
+}
